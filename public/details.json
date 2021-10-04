@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "img":"https://cdn.sohopathi.com/wp-content/uploads/2018/07/English-For-Today.jpg",
+        "name":"class 1",
+        "description":"As per the Class 1 syllabus, kids are introduced to study new subjects in Standard 1"
+        
+    },
+    {
+        "id":2,
+        "img":"https://www.takshilalearning.com/wp-content/uploads/2017/05/class1-english-1.jpg",
+        "name":"class 1",
+        "description":"As per the Class 1 syllabus, kids are introduced to study new subjects in Standard 1"
+        
+    },
+    {
+        "id":3,
+        "img":"https://bdebooks.com/wp-content/uploads/2020/01/Add-a-heading-1-724x1024.jpg",
+        "name":"class 2",
+        "description":"Class 2 Practice Workbook with Fun Activities"
+        
+    },
+    {
+        "id":4,
+        "img":"https://bdebooks.com/wp-content/uploads/2020/01/Add-a-heading-2-724x1024.jpg",
+        "name":" class 3",
+        "description":"Class 3 by latest edition books for All Subjects like Maths, EVS, English"
+        
+    },
+    {
+        "id":5,
+        "img":"https://edusaksham.com//eduadmin/public/uploads/classs/1571657791.png",
+        "name":" class 4",
+        "description":"Class Four. Class 4 Textbooks. Term One. English"
+        
+    },
+    {
+        "id":6,
+        "img":"https://www.takshilalearning.com/wp-content/uploads/2017/05/Class-2-English.jpg.webp",
+        "name":"class 2",
+        "description":"Class 3 by latest edition books for All Subjects like Maths, EVS, English."
+        
+    },
+    {
+        "id":7,
+        "img":"https://www.takshilalearning.com/wp-content/uploads/2017/05/class-3-english-1.jpg",
+        "name":" class 3",
+        "description":"Class 3 by latest edition books for All Subjects like Maths, EVS, English"
+        
+    },
+    {
+        "id":8,
+        "img":"https://unseenpassage.com/wp-content/uploads/2021/03/Unseen-Passage-for-Class-4-English-1024x493.jpg",
+        "name":" class 4",
+        "description":"Class Four. Class 4 Textbooks. Term One. English"
+        
+    }
+   
+]

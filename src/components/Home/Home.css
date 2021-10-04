@@ -1,0 +1,6 @@
+
+.backgroundImage{
+    min-height: 70vh;
+    background-image: url("https://image.shutterstock.com/image-photo/baby-kids-toys-banner-background-260nw-1712306566.jpg");
+    object-fit: cover;
+}

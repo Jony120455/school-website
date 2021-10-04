@@ -1,0 +1,5 @@
+.serviceBackdround{
+
+    min-height: 70vh;
+    transition: clip-path 1s;
+}
