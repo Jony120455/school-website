@@ -1,13 +1,13 @@
-// import React from 'react';
-// import './SignIn.css'
+import React from 'react';
+import './SignIn.css'
 
 
-// const SignIn = () => {
-//     return (
-//         <>
-//         <div></div>
-//         </>   
-//     );
-// };
+const SignIn = () => {
+    return (
+        <>
+        <div></div>
+        </>   
+    );
+};
 
-// export default SignIn;
+export default SignIn;
